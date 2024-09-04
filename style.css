@@ -1,0 +1,33 @@
+.panel-section {
+    min-height: 300px;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .card {
+    margin-bottom: 10px;
+    cursor: grab;
+  }
+  
+  .resolved {
+    background-color: #d4edda !important;
+    color: #28a745; 
+
+  }
+  
+  .in-progress,
+  .to-do {
+    background-color: #f8d7da !important;
+    color: #dc3545; 
+
+  }
+  
+  .card h5 {
+    font-size: 1.25rem; 
+    margin: 0;
+    color: #333; 
+  }
+
+  
